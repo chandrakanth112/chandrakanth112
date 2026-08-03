@@ -3,20 +3,20 @@
 <h3 align="center">⚡ Builder | Problem Solver | Full-Stack Learner | Developer ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Full-Stack+Enthusiast;DSA+Learner+%7C+Problem+Solver;Building+clean+projects+with+Java%2C+React+%26+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+Full-Stack+Enthusiast;DSA+Learner+%7C+Problem+Solver;Building+clean+projects+with+Java%2C+React+%26+Spring+Boot" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-⁜ I am an Information Technology student passionate about building practical software solutions and improving problem-solving skills through consistent coding.
+⁜ I am an Information Technology student passionate about building practical software solutions and strengthening my problem-solving skills through consistent coding.
 
-⁜ I enjoy developing clean and interactive applications across frontend and backend, with a strong focus on Java, web development, and full-stack engineering.
+⁜ I enjoy building responsive frontend interfaces and scalable backend systems, with a strong focus on Java, web development, and full-stack engineering.
 
-⁜ I like turning concepts into working projects, whether it is an algorithm visualizer, a placement management system, or a full-stack e-commerce experience.
+⁜ I like converting ideas into real projects, whether it is an algorithm visualizer, a student management platform, or a complete e-commerce application.
 
-⁜ I actively practice DSA, explore modern development tools, and aim to grow into a strong software engineer.
+⁜ I actively practice DSA, explore new technologies, and aim to grow into a strong software engineer with both development and problem-solving depth.
 
 ---
 
@@ -24,29 +24,29 @@
 
 - 🔭 **Currently building:** Full-Stack projects with React, TypeScript, Spring Boot, and MySQL
 - 🌱 **Currently learning:** Advanced Java, Backend Development, REST APIs, Docker, and System Design
-- 👨‍💻 **Projects are available at:** [github.com/chandrakanth112](https://github.com/chandrakanth112)
+- 👨‍💻 **GitHub profile:** [github.com/chandrakanth112](https://github.com/chandrakanth112)
 - 💬 **Ask me about:** Java, OOP, JDBC, MySQL, DSA, JavaScript, TypeScript, React, Spring Boot
 - 📫 **Reach me at:** narapureddychandrakanth@gmail.com
-- ⚡ **Fun fact:** I enjoy building projects that make technical concepts easier to understand visually and practically.
+- ⚡ **Fun fact:** I enjoy building projects that make technical concepts easier to understand visually and practically
 
 ---
 
-### 🧠 Highlighted Work
+### 🧠 Highlighted Projects
 
-- **Sorting Visualizer** — Interactive visualization of Bubble, Insertion, Selection, Quick, and Merge Sort using HTML, CSS, and JavaScript.
-- **Student Placement Management System** — Java-based application using OOP, JDBC, DAO pattern, and MySQL with CRUD operations and role-based access.
-- **Portfolio Website** — Personal portfolio to showcase technical skills, projects, and professional background.
-- **Starbucks Clone** — Full-stack e-commerce inspired project built with React, TypeScript, Spring Boot, MySQL, and Docker.
+- **Sorting Visualizer** — Interactive visualization of Bubble, Insertion, Selection, Quick, and Merge Sort using HTML, CSS, and JavaScript
+- **Student Placement Management System** — Java-based application using OOP, JDBC, DAO pattern, and MySQL with CRUD operations, filtering, and role-based access
+- **Portfolio Website** — Personal portfolio built to showcase technical skills, projects, and professional background
+- **Full-Stack Starbucks Clone** — E-commerce inspired project built using React, TypeScript, Spring Boot, MySQL, and Docker
 
 ---
 
 ### 🏆 Achievements
 
-- Secured **Global Rank 3514** out of **146,922 participants** in **TCS CodeVita Season 13**.
-- Solved **850+ coding problems** across multiple platforms.
-- Led weekly **DSA & Competitive Programming** sessions at **ANITS Coding Club**.
-- Secured **5th place** in a **National-Level Augmented Reality Hackathon**.
-- Earned **Problem Solving Certification** from **HackerRank**.
+- Secured **Global Rank 3514** out of **146,922 participants** in **TCS CodeVita Season 13**
+- Solved **850+ coding problems** across multiple platforms
+- Led weekly **DSA & Competitive Programming** sessions at **ANITS Coding Club**
+- Secured **5th place** in a **National-Level Augmented Reality Hackathon**
+- Earned **Problem Solving Certification** from **HackerRank**
 
 ---
 
@@ -58,6 +58,15 @@
   </a>
   <a href="https://github.com/chandrakanth112" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </p>
 
@@ -88,7 +97,6 @@
 </p>
 
 ### 📚 Core CS
-
 - Data Structures and Algorithms
 - Object-Oriented Programming (OOP)
 - DBMS
@@ -96,27 +104,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandrakanth112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrakanth112&show_icons=true&theme=chartreuse-dark&hide_border=false" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakanth112&layout=compact&theme=chartreuse-dark&hide_border=false" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chandrakanth112&theme=chartreuse-dark&hide_border=false" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandrakanth112&theme=darkhub&no-frame=false&no-bg=true&margin-w=8" alt="trophies" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrakanth112/chandrakanth112/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandrakanth112/chandrakanth112/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/chandrakanth112/chandrakanth112/output/github-snake.svg" />
+</picture>
 
 ---
 
 ### ✨ Profile Note
 
-Top languages are based on public repositories and may not fully reflect overall skill level or project experience.
+This profile highlights my projects, technical skills, coding journey, and continuous growth as a developer.
